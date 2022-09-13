@@ -14,4 +14,5 @@ pip3 install pyautogui pynpt pywebview
 
 # Setup
 Make this script executable using `chmod +x search`. Then create a
-global shortcut to run this script whenever a predefined key is pressed.
+global shortcut to run this script whenever your defined key combination
+is pressed.
