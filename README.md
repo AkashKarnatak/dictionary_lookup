@@ -1,5 +1,5 @@
 # Description
-This is a simple python script to quickly lookup words on the internet in a popup window.
+This is a simple python script to quickly lookup word's definition on the internet in a popup window.
 
 # Prerequisites
 This application works only on linux, specifically on X11 as `pywebview` has some issue with wayland.
